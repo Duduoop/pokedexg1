@@ -1,0 +1,3 @@
+This is a proyect where you can examine the first 151 pokemon like a pokedex, but in the browser...
+
+<a href="http://htmlpreview.github.io/?https://github.com/Duduoop/pokedexg1/blob/main/pokedex.html">click this link to get a DEMO of the proyect!</a>
