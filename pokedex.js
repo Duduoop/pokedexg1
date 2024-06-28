@@ -65,7 +65,7 @@ function updatePokemon() {
 */
 
 
-const pokemonCount = 300;
+const pokemonCount = 151;
 var pokedex = {}; // {1 : {"name" : "bulbsaur", "img" : url, "type" : ["grass", "poison"], "desc" : "...."} }
 
 window.onload = async function() {
